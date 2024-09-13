@@ -36,22 +36,22 @@ After setting up the project locally, navigate through the different sections us
 ## Portfolio Images
 
 ### About Me
-![About Me](https://AslamMahi.github.io/aboutme.png)
+![About Me](public/aboutme.png)
 
 ### Skills
-![Skills](https://AslamMahi.github.io/skills.png)
+![Skills](public/skills.png)
 
 ### Experience
-![Experience](https://AslamMahi.github.io/experience.png)
+![Experience](public/experience.png)
 
 ### Projects
-![Projects](https://AslamMahi.github.io/projects.png)
+![Projects](public/projects.png)
 
 ### Education
-![Education](https://AslamMahi.github.io/education.png)
+![Education](public/education.png)
 
 ### Contact
-![Contact](https://AslamMahi.github.io/contact.png)
+![Contact](public/contact.png)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
