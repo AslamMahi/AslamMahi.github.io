@@ -1,63 +1,66 @@
-# My Portfolio
-Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.
-
-### Weblink: [Live Website](https://rishavchanda.netlify.app)
-## Some Images:
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/4774dc30-1c1c-4c6c-b23b-019f3481713e"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0a33349f-262d-4720-afed-7afc0dfd85a5"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/92f2622f-0a7f-444a-8f60-6edeae7508dd"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0e984e85-cbd9-487b-bf91-166009b39319"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/6ad7b63b-4c51-4c98-bd21-847e5d48d559"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/10647898-7154-434c-84e6-edee6679ca92"/>
-
-
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+# AslamMahi Portfolio
 
 ## Introduction
-My Portfolio is a React.js application that serves as an online portfolio to showcase my work, skills, and achievements. It provides an overview of my background, displays my projects, and offers a way to contact me.
+Welcome to my portfolio website, built with React.js. This site serves as a digital resume and showcase of my work, skills, and accomplishments in the field of cybersecurity. Explore my background, projects, and more through this interactive and visually engaging platform.
+
+## Live Website
+- [Visit My Portfolio](https://aslammahi.github.io/)
 
 ## Features
-- About Me: An overview of my background, skills, and experiences.
-- Projects: A collection of my notable projects with descriptions, screenshots, and links.
-- Skills: A list of my technical skills and proficiencies.
-- Resume: A link to download my resume.
-- Contact: A form to send me messages or inquiries.
+- **About Me**: A section detailing my professional journey, skills, and personal insights.
+- **Projects**: Showcases a selection of my key projects with in-depth descriptions and visuals.
+- **Skills**: Highlights my technical expertise and areas of proficiency.
+- **Resume**: Provides a downloadable version of my resume for detailed career information.
+- **Contact**: Offers a way to reach out to me directly through a contact form.
 
 ## Technologies Used
-- React.js: A JavaScript library for building user interfaces.
-- HTML5 & CSS3: Markup and styling languages for building web pages.
-- JavaScript: A programming language for adding interactivity to web applications.
-- Style-Components: A CSS framework for creating responsive and mobile-first designs.
-- Git: A version control system for tracking changes and collaborating on projects.
-- GitHub Pages: A platform for hosting and deploying web applications.
+- **React.js**: A powerful JavaScript library for creating dynamic user interfaces.
+- **HTML5 & CSS3**: Fundamental technologies for building and styling web pages.
+- **JavaScript**: Adds interactive elements to enhance user experience.
+- **Styled-Components**: Utilized for modular and scalable styling within the application.
+- **Git**: Version control system used for managing project changes.
+- **GitHub Pages**: Deployed on GitHub Pages for easy hosting and distribution.
 
 ## Installation
-To run this portfolio locally, follow these steps:
+To set up this portfolio locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/rishavchanda/rishav-chanda-portfolio.git`
-2. Navigate to the project directory: `cd rishav-chanda-portfolio`
-3. Install the dependencies: `npm install`
-4. Start the development server: `npm start`
-5. Open your browser and visit: `http://localhost:3000`
+1. Clone the repository: `git clone https://github.com/AslamMahi/AslamMahi.github.io.git`
+2. Navigate to the project directory: `cd AslamMahi.github.io`
+3. Install the necessary packages: `npm install`
+4. Launch the development server: `npm start`
+5. Open your browser and go to: `http://localhost:3000`
 
 ## Usage
-After installing and running the project locally, you can navigate through the different sections of the portfolio using the navigation menu. Explore the About Me section to learn more about my background and skills. Visit the Projects section to see detailed information about my projects, including descriptions and screenshots. Use the Contact section to send me a message or inquiry.
+After setting up the project locally, navigate through the different sections using the site's navigation menu. The **About Me** section provides insights into my professional background. **Projects** displays my work with detailed descriptions and images. **Skills** lists my technical proficiencies. The **Contact** section allows you to send me inquiries or messages directly.
+
+## Portfolio Images
+
+### About Me
+![About Me](https://AslamMahi.github.io/aboutme.png)
+
+### Skills
+![Skills](https://AslamMahi.github.io/skills.png)
+
+### Experience
+![Experience](https://AslamMahi.github.io/experience.png)
+
+### Projects
+![Projects](https://AslamMahi.github.io/projects.png)
+
+### Education
+![Education](https://AslamMahi.github.io/education.png)
+
+### Contact
+![Contact](https://AslamMahi.github.io/contact.png)
 
 ## Contributing
-Contributions are welcome! If you'd like to contribute to My Portfolio, please follow these steps:
+If you want to contribute to my portfolio project, please follow these steps:
 
 1. Fork the repository.
-2. Create a new branch for your feature or bug fix: `git checkout -b my-feature`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin my-feature`
-5. Open a pull request.
+2. Create a new branch: `git checkout -b my-feature-branch`
+3. Make your changes and commit them: `git commit -m 'Add new feature or fix'`
+4. Push your branch to GitHub: `git push origin my-feature-branch`
+5. Submit a pull request to merge your changes.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
