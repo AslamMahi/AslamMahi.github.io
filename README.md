@@ -53,14 +53,8 @@ After setting up the project locally, navigate through the different sections us
 ### Contact
 ![Contact](https://AslamMahi.github.io/contact.png)
 
-## Contributing
-If you want to contribute to my portfolio project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b my-feature-branch`
-3. Make your changes and commit them: `git commit -m 'Add new feature or fix'`
-4. Push your branch to GitHub: `git push origin my-feature-branch`
-5. Submit a pull request to merge your changes.
-
 ## License
 This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgements
+Special thanks to [Rishav Chanda](https://github.com/rishavchanda) for the inspiration and foundational work on which this portfolio is based.
