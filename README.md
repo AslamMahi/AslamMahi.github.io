@@ -42,7 +42,7 @@ After setting up the project locally, navigate through the different sections us
 ![Skills](public/skills.png)
 
 ### Experience
-![Experience](public/experience.png)
+![Experience](public/exprince.png)
 
 ### Projects
 ![Projects](public/projects.png)
