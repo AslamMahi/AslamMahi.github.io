@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/aslammahi.github.io/static/css/main.58a0c615.css",
+    "main.js": "/aslammahi.github.io/static/js/main.11e723e9.js",
+    "static/media/HeroImage.jpg": "/aslammahi.github.io/static/media/HeroImage.723f834cfa416bb78669.jpg",
+    "index.html": "/aslammahi.github.io/index.html",
+    "main.58a0c615.css.map": "/aslammahi.github.io/static/css/main.58a0c615.css.map",
+    "main.11e723e9.js.map": "/aslammahi.github.io/static/js/main.11e723e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58a0c615.css",
+    "static/js/main.11e723e9.js"
+  ]
+}
