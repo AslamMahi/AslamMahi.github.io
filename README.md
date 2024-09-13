@@ -51,7 +51,7 @@ After setting up the project locally, navigate through the different sections us
 ![Education](public/education.png)
 
 ### Contact
-![Contact](public/contact.png)
+![Contact](public/conatct.png)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
