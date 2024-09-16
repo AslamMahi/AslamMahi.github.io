@@ -9,7 +9,7 @@ export const Bio = {
     "As a Red Teamer and Penetration Tester, I focus on finding vulnerabilities and enhancing security measures. My passion for cybersecurity drives me to continuously learn and stay ahead of emerging threats. With experience as a SOC analyst, I bring a strong understanding of threat detection and response to my work.",
   github: "https://github.com/AslamMahi",
   resume:
-    "https://drive.google.com/file/d/19rIQ_xdZcTPMRrFnTAxdEQ2XRhDkYWVz/view?usp=drive_link",
+    "/AslamMahimkar-Resumev3.pdf",
   linkedin: "https://www.linkedin.com/in/aslam-mahimkar-642a74139",
   /*twitter: "https://twitter.com/RishavChanda",*/
 
@@ -857,7 +857,7 @@ export const projects = [
     description:
       "This project is a lightweight SSH and HTTP Honeypot that logs unauthorized access attempts, capturing IP addresses, usernames, passwords, and commands. By simulating a vulnerable service, it attracts attackers and provides valuable data for security research and analysis.",
     image:
-      "https://raw.githubusercontent.com/AslamMahi/Threat-Detection-and-Response-Lab/main/Assets/output-onlinepngtools.png",
+      "https://raw.githubusercontent.com/AslamMahi/HoneyLogix_HoneyPot/main/assets/images/honeypot41.png",
     tags: ["Python", "ssh", "HTTP", "Linux"],
     category: "machine learning",
     github: "https://github.com/AslamMahi/Threat-Detection-and-Response-Lab",
@@ -884,7 +884,7 @@ export const projects = [
     description:
       "Threat Detection & Response Lab offers a modular and flexible environment for security experts looking to deploy, experiment with, and evaluate security tools and technologies. By utilizing Docker.",
     image:
-      "https://raw.githubusercontent.com/AslamMahi/HoneyLogix_HoneyPot/main/assets/images/honeypot41.png",
+      "https://raw.githubusercontent.com/AslamMahi/Threat-Detection-and-Response-Lab/main/Assets/output-onlinepngtools.png",
     tags: ["Python", "ssh", "HTTP", "Linux"],
     category: "machine learning",
     github: "https://github.com/AslamMahi/HoneyLogix_HoneyPot",

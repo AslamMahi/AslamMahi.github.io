@@ -1,7 +1,7 @@
 {
   "name": "3d-portfolio-website",
   "version": "0.1.1",
-  "homepage": "https://aslammahi.github.io/aslammahi.github.io",
+  "homepage": "https://aslammahi.github.io",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.1.0",
