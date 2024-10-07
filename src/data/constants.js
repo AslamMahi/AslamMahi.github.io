@@ -669,7 +669,7 @@ export const projects = [
       "Sourcecodehero Event Management System 1.0 allows Stored Cross-Site Scripting via parameters 'Full Name', 'Address', 'Email' and 'contact#' in /clientdetails/admin/register. Client_Details_System is vulnerable to a cross-site scripting vulnerability because it fails to sufficiently sanitize user-supplied data. An attacker may leverage this issue to execute arbitrary script code in the browser of an unsuspecting user in the context of the affected site. This may allow the attacker to steal cookie-based authentication credentials and launch other attacks..",
     image:
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-1e227.appspot.com/o/sitimageeventmanamgment.png?alt=media&token=7f707810-281c-4b5b-8f44-f6255d8e3c07",
-      tags: ["XSS", "MInformation disclosure", ],
+      tags: ["XSS", "Information disclosure", ],
     category: "web app",
     github: "https://github.com/AslamMahi/CVE-Aslam-Mahi/blob/main/Sourcecodehero%20Event%20Management%20System/CVE-2024-44728.md",
     /*webapp: "https://brain-tumor.netlify.app/",*/
@@ -696,7 +696,7 @@ export const projects = [
       "The Laravel CRM v1.3.0 web application is vulnerable to a persistent XSS vulnerability in the organization name field. When a user enters a malicious payload into the organization name field in /laravel-crm/admin/contacts/organizations/edit/2, this payload is executed when the user later views the associated person’s page.This occurs due to the organization name being reflected on the person’s page without proper sanitization or escaping.",
     image:
       "https://ppcl.com/wp-content/uploads/2022/01/PPCL_Icons_CVE_600_Tiny-480x480.png",
-    tags: ["XSS", "MInformation disclosure", ],
+    tags: ["XSS", "Information disclosure", ],
     category: "web app",
     github: "https://github.com/AslamMahi/CVE-Aslam-Mahi/blob/main/Laravel%20CRM%20v1.3.0/CVE-2024-45932.md",
     /*webapp: "https://podstream.netlify.app/",*/
@@ -723,7 +723,7 @@ export const projects = [
       "A stored cross-site scripting (XSS) vulnerability exists in MobinaJafarian/OnlineNewsSite v 1.0 that can allows a low-privilege user to create malicious post content with HTML inside it, which acts as a stored XSS payload. If this post page is visited by anyone including the administrator, then the XSS payload will be triggered.",
     image:
       "https://ppcl.com/wp-content/uploads/2022/01/PPCL_Icons_CVE_600_Tiny-480x480.png",
-    tags: ["XSS", "MInformation disclosure", ],
+    tags: ["XSS", "Information disclosure", ],
     category: "web app",
     github: "https://github.com/AslamMahi/CVE-Aslam-Mahi/blob/main/MobinaJafarian-OnlineNewsSite%20v%201.0/CVE-2024-45933.md",
     /*webapp: "https://podstream.netlify.app/",*/
