@@ -9,7 +9,7 @@ export const Bio = {
     "As a Red Teamer and Penetration Tester, I focus on finding vulnerabilities and enhancing security measures. My passion for cybersecurity drives me to continuously learn and stay ahead of emerging threats. With experience as a SOC analyst, I bring a strong understanding of threat detection and response to my work.",
   github: "https://github.com/AslamMahi",
   resume:
-    "/AslamMahimkar-Resumev3.pdf",
+    "/AslamMahimkar-Resumev3.1.pdf",
   linkedin: "https://www.linkedin.com/in/aslam-mahimkar-642a74139",
   /*twitter: "https://twitter.com/RishavChanda",*/
 
