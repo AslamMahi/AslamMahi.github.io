@@ -612,7 +612,7 @@ export const projects = [
       "https://firebasestorage.googleapis.com/v0/b/myportfolio-1e227.appspot.com/o/CVE-2024-36599.png?alt=media&token=09fd327f-d860-4ecb-9946-560a648fa429",
     tags: ["XSS", "MInformation disclosure", ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
+    github: "https://github.com/AslamMahi/CVE-Aslam-Mahi/blob/main/AEGON%20LIFE%20v1.0%20Life%20Insurance%20Management%20System/CVE-2024-36599",
     /*webapp: "https://podstream.netlify.app/",*/
     member: [
       {
@@ -673,6 +673,60 @@ export const projects = [
     category: "web app",
     github: "https://github.com/AslamMahi/CVE-Aslam-Mahi/blob/main/Sourcecodehero%20Event%20Management%20System/CVE-2024-44728.md",
     /*webapp: "https://brain-tumor.netlify.app/",*/
+    member: [
+      {
+        name: "Aslam Anwar",
+        img: "https://avatars.githubusercontent.com/u/137717528?v=4",
+        linkedin: "https://www.linkedin.com/in/aslam-mahimkar-642a74139",
+        github: "https://github.com/AslamMahi",
+      },
+      /*{
+        name: "Upasana Chaudhuri",
+        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
+        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+        github: "https://github.com/upasana0710",
+      },*/
+    ],
+  },
+  {
+    id: 19,
+    title: "CVE-2024-45932",
+    date: "20-08-2024",
+    description:
+      "The Laravel CRM v1.3.0 web application is vulnerable to a persistent XSS vulnerability in the organization name field. When a user enters a malicious payload into the organization name field in /laravel-crm/admin/contacts/organizations/edit/2, this payload is executed when the user later views the associated person’s page.This occurs due to the organization name being reflected on the person’s page without proper sanitization or escaping.",
+    image:
+      "https://ppcl.com/wp-content/uploads/2022/01/PPCL_Icons_CVE_600_Tiny-480x480.png",
+    tags: ["XSS", "MInformation disclosure", ],
+    category: "web app",
+    github: "https://github.com/AslamMahi/CVE-Aslam-Mahi/blob/main/Laravel%20CRM%20v1.3.0/CVE-2024-45932.md",
+    /*webapp: "https://podstream.netlify.app/",*/
+    member: [
+      {
+        name: "Aslam Anwar",
+        img: "https://avatars.githubusercontent.com/u/137717528?v=4",
+        linkedin: "https://www.linkedin.com/in/aslam-mahimkar-642a74139",
+        github: "https://github.com/AslamMahi",
+      },
+      /*{
+        name: "Upasana Chaudhuri",
+        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
+        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+        github: "https://github.com/upasana0710",
+      },*/
+    ],
+  },
+  {
+    id: 20,
+    title: "CVE-2024-45933",
+    date: "24-08-2024",
+    description:
+      "A stored cross-site scripting (XSS) vulnerability exists in MobinaJafarian/OnlineNewsSite v 1.0 that can allows a low-privilege user to create malicious post content with HTML inside it, which acts as a stored XSS payload. If this post page is visited by anyone including the administrator, then the XSS payload will be triggered.",
+    image:
+      "https://ppcl.com/wp-content/uploads/2022/01/PPCL_Icons_CVE_600_Tiny-480x480.png",
+    tags: ["XSS", "MInformation disclosure", ],
+    category: "web app",
+    github: "https://github.com/AslamMahi/CVE-Aslam-Mahi/blob/main/MobinaJafarian-OnlineNewsSite%20v%201.0/CVE-2024-45933.md",
+    /*webapp: "https://podstream.netlify.app/",*/
     member: [
       {
         name: "Aslam Anwar",
