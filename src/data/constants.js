@@ -768,7 +768,7 @@ export const projects = [
   },*/
   {
     id: 10,
-    title: "WiFi-Pentesting",
+    title: "WiFi Pentesting",
     date: "September 2024",
     description:
       "Step-by-step approach to WiFi pentesting, designed for both beginners and intermediate users.",
