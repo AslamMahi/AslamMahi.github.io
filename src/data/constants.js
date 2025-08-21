@@ -9,7 +9,7 @@ export const Bio = {
     "As a Red Teamer and Penetration Tester, I focus on finding vulnerabilities and enhancing security measures. My passion for cybersecurity drives me to continuously learn and stay ahead of emerging threats. With experience as a SOC analyst, I bring a strong understanding of threat detection and response to my work.",
   github: "https://github.com/AslamMahi",
   resume:
-    "/AslamMahimkar-Resumev4.pdf",
+    "/AslamMahimkar-Resumev4-1.pdf",
   linkedin: "https://www.linkedin.com/in/aslam-mahimkar-642a74139",
   /*twitter: "https://twitter.com/RishavChanda",*/
 
@@ -386,21 +386,18 @@ export const experiences = [
     role: "Penetration Tester / Read Team Assessment",
     company: "SELF, Doha, Qatar",
     date: "September 2022–Present ",
-    desc: `Conducts penetration tests and red team assessments to uncover security vulnerabilities and assess risks. Specializes in exploiting weaknesses in Active Directory, Wi-Fi networks, and network infrastructure. Skilled in threat detection and response to enhance overall security posture.`,
+    desc: `Since September 2022, I have focused on Red Team and Cloud Security, building labs for penetration testing, Active Directory attacks, and lateral movement. I assess Azure and AWS environments for misconfigurations and privilege escalation, perform web application testing using OWASP Top 10 methods, automate tasks with scripting, and document findings through technical blogs and reports..`,
     skills: [
       "Penetration Testing",
       "Vulnerability Scanning",
       "Active Directory",
       "Privilege Escalation",
       "Lateral Movement",
-      "Wi-Fi Security",
       "Encryption",
       "Authentication",
       "Network Configuration",
       "Scripting",
       "Coding Languages",
-      "Forensic Analysis",
-      "Malware Analysis",
       "Linux",
       "UNIX",
       "Command-Line Interfaces",
@@ -644,7 +641,7 @@ export const projects = [
       "Information disclosure",
     ],
     category: "web app",
-    github: "https://github.com/AslamMahi/CVE-Aslam-Mahi/blob/main/Sourcecodehero%20Event%20Management%20System/CVE-2024-44727.MDhttps://github.com/rishavchanda/Project-Management-App",
+    github: "https://github.com/AslamMahi/CVE-Aslam-Mahi/blob/main/Sourcecodehero%20Event%20Management%20System/CVE-2024-44727.MD",
     /*webapp: "https://vexa-app.netlify.app/",*/
     member: [
       {
