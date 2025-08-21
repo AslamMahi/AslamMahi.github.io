@@ -6,7 +6,7 @@ export const Bio = {
     "Cybersecurity Researcher",
   ],
   description:
-    "As a Red Teamer and Penetration Tester, I focus on finding vulnerabilities and enhancing security measures. My passion for cybersecurity drives me to continuously learn and stay ahead of emerging threats. With experience as a SOC analyst, I bring a strong understanding of threat detection and response to my work.",
+    "As a Red Teamer and Penetration Tester, I focus on finding vulnerabilities and enhancing security measures. My passion for cybersecurity drives me to continuously learn and stay ahead of emerging threats.",
   github: "https://github.com/AslamMahi",
   resume:
     "/AslamMahimkar-Resumev4-2.pdf",
